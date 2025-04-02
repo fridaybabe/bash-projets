@@ -36,9 +36,5 @@ A collection of practical Bash scripts for automation, system tasks, and product
 
 Pull requests are welcome! For major changes, please open an issue first.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 💻 **Happy scripting!**  
 ✨ *Maintained by [fridaybabe](https://github.com/fridaybabe)*
