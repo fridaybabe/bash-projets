@@ -1,4 +1,3 @@
-```
 # Bash Projects 🐚
 
 A collection of practical Bash scripts for automation, system tasks, and productivity.
@@ -8,14 +7,14 @@ A collection of practical Bash scripts for automation, system tasks, and product
 
 ## 📁 Project Structure
 
-```
+
 bash-projets/
 ├── backup-script/              # Automated backup solutions
 ├── system-info/                # System monitoring utilities
 ├── file-organizer/             # File management tools
 ├── network-tools/              # Networking-related scripts
 └── ...                         # Additional categories
-```
+
 
 ## ✨ Featured Scripts
 
@@ -55,8 +54,5 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
 💻 **Happy scripting!**  
 ✨ *Maintained by [fridaybabe](https://github.com/fridaybabe)*
-```
