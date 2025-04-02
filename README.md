@@ -1,8 +1,62 @@
-# bash-projets
-Some random codes
+```
+# Bash Projects 🐚
 
-1. Shell script to accept two directory names as arguments and deletes those files in the first directory which are similarly named in the second directory.
-2. Shell program to read two numbers and display all the odd numbers between those two numbers.
-3. Shell script to collect System information and display.
-4. Shell script using Nested for loops.
-5. Shell script which takes its argument, the name of file, whose contents should writes to standard output with each line prefixed by line number. Appropriate error messages are produced if the argument if not a file.
+A collection of practical Bash scripts for automation, system tasks, and productivity.
+
+![Bash Logo](https://img.shields.io/badge/Shell-Bash-%234EAA25?logo=gnu-bash&logoColor=white)
+![License](https://img.shields.io/github/license/fridaybabe/bash-projets)
+
+## 📁 Project Structure
+
+```
+bash-projets/
+├── backup-script/              # Automated backup solutions
+├── system-info/                # System monitoring utilities
+├── file-organizer/             # File management tools
+├── network-tools/              # Networking-related scripts
+└── ...                         # Additional categories
+```
+
+## ✨ Featured Scripts
+
+- **Automated Backup** - Scheduled backup solution with compression
+- **System Health Check** - Monitors CPU, memory, and disk usage
+- **File Organizer** - Automatically categorizes files by extension
+- **Network Scanner** - Simple local network device discovery
+
+## 🛠️ Requirements
+
+- Bash 4.0+
+- GNU Core Utilities
+- (Optional) `cron` for scheduled tasks
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/fridaybabe/bash-projets.git
+   ```
+
+2. Make scripts executable:
+   ```
+   chmod +x script-name.sh
+   ```
+
+3. Run any script:
+   ```
+   ./script-name.sh
+   ```
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+💻 **Happy scripting!**  
+✨ *Maintained by [fridaybabe](https://github.com/fridaybabe)*
+```
