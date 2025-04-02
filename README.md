@@ -2,20 +2,6 @@
 
 A collection of practical Bash scripts for automation, system tasks, and productivity.
 
-![Bash Logo](https://img.shields.io/badge/Shell-Bash-%234EAA25?logo=gnu-bash&logoColor=white)
-![License](https://img.shields.io/github/license/fridaybabe/bash-projets)
-
-## 📁 Project Structure
-
-
-bash-projets/
-├── backup-script/              # Automated backup solutions
-├── system-info/                # System monitoring utilities
-├── file-organizer/             # File management tools
-├── network-tools/              # Networking-related scripts
-└── ...                         # Additional categories
-
-
 ## ✨ Featured Scripts
 
 - **Automated Backup** - Scheduled backup solution with compression
